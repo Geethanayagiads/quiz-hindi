@@ -39,10 +39,6 @@ export default function MainHome () {
             Play
           </button>
 
-          <button onClick={handlePlay} id='play' className='btn-primary uppercase px-6 py-4 text-lg max-w-md w-full mx-auto mt-10'>
-            Exit
-          </button>
-
         </article>
       </section>
       <PageFooter />
