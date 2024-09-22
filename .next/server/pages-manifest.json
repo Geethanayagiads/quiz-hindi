@@ -1,9 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
-  "/play": "pages/play.html",
-  "/": "pages/index.html",
-  "/api/questions": "pages/api/questions.js",
-  "/_error": "pages/_error.js",
-  "/404": "pages/404.html"
-}
